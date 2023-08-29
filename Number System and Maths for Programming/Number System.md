@@ -1,11 +1,14 @@
 Base 2 (Binary Number System)
-	0 and 1
+	```0 and 1```
+ 
 Base 10 (Decimal Number System)
-	0 , 1, 2, 3, 4, 5, 6, 7, 8, 9
+	```0 , 1, 2, 3, 4, 5, 6, 7, 8, 9```
+ 
 Base 8 (Octal Number System)
-	0, 1, 2, 3, 4, 5, 6, 7
+	```0, 1, 2, 3, 4, 5, 6, 7```
+ 
 Base 16 (Hexa-Decimal Number System)
-	0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F
+	```0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E, F```
 
 Number Conversion : It can be done by taking LCM with its base and merging the reminder on reverse
 Example :
