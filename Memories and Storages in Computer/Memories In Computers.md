@@ -1,4 +1,6 @@
-It is used to store Data and the data is stored by splitting up the memory as bits or binary digits which are called as cells. Each cell has a unique address.
+## Memory
+
+Memory is used to store Data and the data is stored by splitting up the memory as bits or binary digits which are called as cells. Each cell has a unique address.
 
 ## Units of Memory
 
