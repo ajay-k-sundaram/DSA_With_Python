@@ -174,7 +174,7 @@ Optical Storages :
 ![Alt text](https://github.com/ajay-k-sundaram/Notes-for-Computer-Science/blob/master/Memories%20and%20Storages%20in%20Computer/Resources/ASCII%20Table.png?raw=true)
 ## Data Storage
 
-![[Memory Storage.png]]
+![Alt text](https://github.com/ajay-k-sundaram/Notes-for-Computer-Science/blob/master/Memories%20and%20Storages%20in%20Computer/Resources/Memory%20Storage.png?raw=true)
 
 
 
