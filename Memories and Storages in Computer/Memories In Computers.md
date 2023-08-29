@@ -169,7 +169,7 @@ Optical Storages :
 ```
 
 
-![[Memory.png]]
+![Alt text](https://github.com/ajay-k-sundaram/Notes-for-Computer-Science/blob/master/Memories%20and%20Storages%20in%20Computer/Resources/Memory.png?raw=true)
 
 ![[ASCII Table.png]]
 ## Data Storage
