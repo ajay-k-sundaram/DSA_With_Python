@@ -17,7 +17,7 @@ Time = 1 / Frequency = 1/(2 * 10<sup>9</sup>) sec
 
 Higher processing speed requires High amount and high speed storage devices.
 
-![[Memory Classifications.png]]
+![Alt text](https://github.com/ajay-k-sundaram/Notes-for-Computer-Science/blob/master/Memories%20and%20Storages%20in%20Computer/Resources/Memory%20Classifications.png?raw=true)
 #### RAM
 ```
 SRAM (Static Random Access Memory)
