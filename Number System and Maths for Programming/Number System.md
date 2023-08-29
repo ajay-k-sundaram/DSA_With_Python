@@ -64,7 +64,7 @@ Example :
 
 ## Negative Binary Numbers
 
-![[MSB and LSB.png]]
+![Alt text](https://github.com/ajay-k-sundaram/Notes-for-Computer-Science/blob/master/Number%20System%20and%20Maths%20for%20Programming/Resources/MSB%20and%20LSB.png?raw=true)
 
 Example :
 ```
